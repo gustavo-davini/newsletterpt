@@ -1,0 +1,476 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+
+        <mj-image width="100px" src="/assets/img/logo-small.png"></mj-image>
+
+        <mj-divider border-color="#F45E43"></mj-divider>
+
+        <mj-text font-size="20px" color="#F45E43" font-family="helvetica">Hello World</mj-text>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml><mjml owa="desktop" version="4.10.1">
+    <mj-head>
+        <mj-font href="https://fonts.googleapis.com/css?family=Inter" name="Inter">
+        </mj-font>
+
+        <mj-breakpoint width="368px"/>
+        <mj-preview></mj-preview>
+        <mj-style>
+            .email-link {
+                color: #656AF5;
+                text-decoration: none;
+            }
+
+            .email-link:hover {
+                color: #4247D9 !important;
+            }
+
+            p {
+                margin: 0px
+            }
+        </mj-style>
+        <mj-style inline="inline">
+            .footer-link {
+                color: #ced3db;
+                text-decoration: underline;
+            }
+
+            ul {
+                padding: 0px;
+                color: #CED3DB;
+                margin: 0px;
+            }
+
+            .community-section {
+                padding: 12px 24px;
+                background-color: #F6F7F8;
+            }
+
+            .testimonials-section {
+                position: relative;
+            }
+
+            .croct-testimonials {
+                position: absolute;
+                left: 0px;
+                top: 38%;
+                max-height: 24px;
+            }
+
+            .card-shadow {
+                box-shadow: 0px 3px 6px rgba(52, 60, 74, 0.04);
+            }
+
+            .croct-logo {
+                width: 16px !important;
+            }
+
+            .social > td {
+                padding: 0px 12px 0px 0px !important;
+            }
+        </mj-style>
+    </mj-head>
+
+    <mj-body background-color="#EAEEF1" color="#55575d" font-family="Arial, sans-serif" width="600px">
+        <mj-wrapper padding-top="16px" padding="16px">
+            <!-- START Logo -->
+            <mj-section background-color="#ffffff" background-repeat="repeat" padding-left="24px" padding-right="24px"
+                        padding-top="32px" padding="32px 24px 40px 24px" text-align="center" vertical-align="top">
+                <mj-column>
+                    <mj-image align="left" alt="" border="none" height="auto" padding-bottom="0px" padding-left="0px"
+                              padding-right="0px" padding-top="0px" padding="0px 0px 0px 0px"
+                              src="https://001oz.mjt.lu/tplimg/001oz/b/1z47v/x9yt8.png" href="http://croct.com?utm_medium=email&utm_source=materials&utm_campaign=*|DATE:Ymd|*.EB.EC.ab_testing_guide" title=""
+                              width="112px"></mj-image>
+                </mj-column>
+                <!-- END LOGO -->
+                <mj-column></mj-column>
+                <mj-column></mj-column>
+                <mj-column></mj-column>
+            </mj-section>
+            <!-- END Logo -->
+
+            <!-- START Text -->
+            <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto"
+                        padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"
+                        padding="0px 0px 0px 0px" text-align="center" vertical-align="top">
+                <mj-column>
+                    <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="16px"
+                             letter-spacing="normal" padding-bottom="24px" padding-left="24px" padding-right="24px"
+                             padding-top="0px" padding="0px 24px 24px 24px">
+                        <p class="text-build-content" style="line-height: 24px; margin: 0px;" data-testid="B5-TOLPXJ5m">
+                            <span style="color:#6B7280;font-family:Inter,Helvetica;font-size:16px;">
+                                *|IF:FNAME|*Hi *|FNAME|*,*|ELSE:|*Hi there,*|END:IF|*
+                            </span>
+                        </p>
+                    </mj-text>
+                    <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="16px"
+                             letter-spacing="normal" padding-bottom="24px" padding-left="24px" padding-right="24px"
+                             padding-top="0px" padding="0px 24px 24px 24px">
+                        <p class="text-build-content" style="line-height: 24px; margin: 0px;" data-testid="B5-TOLPXJ5m">
+                            <span style="color:#6B7280;font-family:Inter,Helvetica;font-size:16px;">
+                                Obrigado por baixar o guia final para análise de testes AB da Croct eBooks!
+                                Acesse seu material a qualquer momento:
+                            </span>
+                        </p>
+                    </mj-text>
+                    <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="16px"
+                             letter-spacing="normal" padding-bottom="24px" padding-left="24px" padding-right="24px"
+                             padding-top="0px" padding="0px 24px 24px 24px">
+                        <p class="text-build-content" style="line-height: 24px; margin: 0px;" data-testid="B5-TOLPXJ5m">
+                            <span style="color:#6B7280;font-family:Inter,Helvetica;font-size:16px;">
+                                Lendo esse ebook você vai aprender:
+                            </span>
+                        </p>
+                    </mj-text>
+                    <mj-text align="left" color="#000000" container-background-color="#ffffff"
+                             font-family="Arial, sans-serif" font-size="14px" letter-spacing="normal"
+                             padding-bottom="32px" padding-left="24px" padding-right="24px" padding-top="0px"
+                             padding="0px 24px 32px 24px">
+                        <p style="font-family:Inter, Helvetica; color:#6B7280;font-size:16px; margin:0px; padding-bottom: 8px; line-height:24px; font-weight:500">
+                            <span style="color:#CED3DB;margin-right:8px;">&bull;</span>
+                            <span style="margin-left:4px;vertical-align:middle;">
+                                As diferenças entre as estatísticas de abordagens mais usadas nas análises de teste AB e qual delas é a mais usada na indústria de teste AB.
+                            </span>
+                        </p>
+                        <p style="font-family:Inter, Helvetica; color:#6B7280;font-size:16px; margin:0px; padding-bottom: 8px; line-height:24px; font-weight:500">
+                            <span style="color:#CED3DB;margin-right:8px;">&bull;</span>
+                            <span style="margin-left:4px;vertical-align:middle;">
+                                O conceito matemático e terminológico atrás do método Bayesian de interpretação de resultados de testes AB
+                            </span>
+                        </p>
+                        <p style="font-family:Inter, Helvetica; color:#6B7280;font-size:16px; margin:0px; line-height:24px; font-weight:500">
+                            <span style="color:#CED3DB;margin-right:8px;">&bull;</span>
+                            <span style="margin-left:4px;vertical-align:middle;">
+                               O fator mais relevante para declarar uma variante vencedora e como garantir conclusões confiáveis 
+                            </span>
+                        </p>
+                    </mj-text>
+                    <mj-button align="center" background-color="#485261" border-radius="6px" border="none"
+                               color="#ffffff" font-family="Arial, sans-serif" font-size="13px" font-weight="normal"
+                               inner-padding="9px 16px 9px 16px" padding="0px 24px 0 24px" text-decoration="none"
+                               text-transform="none" vertical-align="middle"
+                               href="https://https://mcusercontent.com/5f9a85be1790f60e7bbb31789/files/7a40dcc5-3c40-b31c-7b59-ea05cde2ad29/Tudo_sobre_Landing_pages.pdf">
+                        <span style="line-height: 20px; font-family:Inter, Helvetica;color:white;">Abrir eBook</span>
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <!-- END Text -->
+
+            <!-- START Divider -->
+            <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto"
+                        padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"
+                        padding="0px 0 0 0" text-align="center" vertical-align="top">
+                <mj-column>
+                    <mj-divider border-color="#eaeef1" border-style="solid" border-width="1px" padding-bottom="40px"
+                                padding-left="24px" padding-right="24px" padding-top="40px" padding="40px 24px 40px 24px"
+                                width="100%"></mj-divider>
+                </mj-column>
+            </mj-section>
+            <!-- END Divider -->
+
+            <!-- START Blog Article -->
+            <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto"
+                        padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"
+                        padding="0px 0px 0px 0px" text-align="center" vertical-align="top">
+                <mj-column>
+                    <mj-table padding="0px 24px 32px 24px">
+                        <tr>
+                            <td width="24px;" valign="top">
+                                <img src="https://mcusercontent.com/5f9a85be1790f60e7bbb31789/images/9da46d54-0b66-ba2f-6418-98d5ef7c30d6.png"
+                                     width="24px" style="margin-top:1px;"/>
+                            </td>
+                            <td style="padding-left:8px;position:relative;" align="left">
+                                <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="14px"
+                                         letter-spacing="normal" padding="0px" vertical-align="top">
+                                    <span style="color:#3F4856;font-family:Inter, Helvetica;font-size:24px;margin:0px;line-height: 30px; margin: 0px;">
+                                        <b style="font-weight: ;">Quer conhecer outras táticas para melhorar seus resultados? Os links abaixo podem te ajudar:</b>
+                                    </span>
+                                </mj-text>
+                            </td>
+                        </tr>
+                    </mj-table>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto"
+                        padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"
+                        padding="0px 0px 0px 0px" text-align="center" vertical-align="top">
+                <mj-table padding="90px">
+                    <tr>
+                        <td style="width: 38px; vertical-align:top; padding-left: 24px;">
+                            <img src="https://mcusercontent.com/5f9a85be1790f60e7bbb31789/_thumbs/a070e615-b34e-791c-1425-c25967706ab1.png" width="72px"/>
+                        </td>
+                        <td style="padding-left:12px; vertical-align:top; padding-right:24px" class="b">
+                            <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="12px"
+                                     letter-spacing="normal" padding="0">
+                                <p class="text-build-content"
+                                   style="line-height: 24px;margin: 0px 0px 8px 0px; text-align: initial;"
+                                   data-testid="EukSNcMEz">
+                                    <a href="https://croct.com/blog/pt-br/produto" target="_blank"
+                                       style="text-decoration:none;">
+                                        <span style="background-color:#EAEEF1;color:#485261;font-family:Inter, Helvetica;font-size:12px; padding:4px; border-radius:4px;">
+                                            Produto
+                                        </span>
+                                    </a>
+                                </p>
+                            </mj-text>
+                            <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="16px"
+                                     letter-spacing="normal" padding-bottom="0px" padding-left="0px" padding-right="0px"
+                                     padding-top="0px" padding="0px 0px 0px 0px">
+                                <p class="text-build-content" style="line-height: 24px; margin:0px;text-align: initial;"
+                                   data-testid="pG_0SiY6d">
+                                    <span style="color:#3F4856;font-family:Inter, Helvetica;font-size:16px;">
+                                        <a href="https://croct.com/blog/pt-br/post/croct-ou-hubspot-cms-hub" target="_blank"
+                                           style="text-decoration:none;color:#656AF5;font-family:Inter, Helvetica;font-size:14px; margin:0px; font-weight:500; text-align: initial;line-height: 21px;">
+                                            Hubspot CMS Hub vs. Croct - quais são as diferenças entre as duas plataformas?
+                                        </a>
+                                    </span>
+                                </p>
+                            </mj-text>
+                        </td>
+                    </tr>
+                </mj-table>
+                <mj-column width="100%">
+                    <mj-divider border-color="#eaeef1" border-style="solid" border-width="1px" padding="24px"
+                                width="100%"></mj-divider>
+                </mj-column>
+                <mj-table>
+                    <tr>
+                        <td style="width: 38px; vertical-align:top; padding-left: 24px;">
+                            <img src="https://mcusercontent.com/5f9a85be1790f60e7bbb31789/_thumbs/10dafd57-3180-b8bc-7737-4c4c7bba3409.png" width="72px"/>
+                        </td>
+                        <td style="padding-left:12px; padding-right:24px; vertical-align:top;">
+                            <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="12px"
+                                     letter-spacing="normal" padding="0">
+                                <p class="text-build-content"
+                                   style="line-height: 24px;margin: 0px 0px 8px 0px; text-align: initial;"
+                                   data-testid="EukSNcMEz">
+                                    <a href="https://croct.com/blog/pt-br/personalizacao" target="_blank"
+                                       style="text-decoration:none;">
+                                        <span style="background-color:#EAEEF1;color:#485261;font-family:Inter, Helvetica;font-size:12px; padding:4px; border-radius:4px;">
+                                            Personalização
+                                        </span>
+                                    </a>
+                                </p>
+                            </mj-text>
+                            <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="16px"
+                                     letter-spacing="normal" padding-bottom="0px" padding-left="0px" padding-right="0px"
+                                     padding-top="0px" padding="0px 0px 0px 0px">
+                                <p class="text-build-content" style="line-height: 24px; margin:0px;text-align: initial;"
+                                   data-testid="pG_0SiY6d">
+                                    <span style="color:#3F4856;font-family:Inter, Helvetica;font-size:16px;">
+                                        <a href="https://croct.com/blog/pt-br/post/personalizacao-localizacao" target="_blank"
+                                           style="text-decoration:none;color:#656AF5;font-family:Inter, Helvetica;font-size:14px; margin:0px; font-weight:500; text-align: initial;line-height: 21px;">
+                                            Como implementar conteúdo personalizado de acordo com a localização do usuário
+                                        </a>
+                                    </span>
+                                </p>
+                            </mj-text>
+                        </td>
+                    </tr>
+                </mj-table>
+                <mj-column width="100%">
+                    <mj-divider border-color="#eaeef1" border-style="solid" border-width="1px" padding="24px"
+                                width="100%"></mj-divider>
+                </mj-column>
+                <mj-table>
+                    <tr>
+                        <td style="width: 38px; vertical-align:top; padding-left: 24px;">
+                            <img src="https://mcusercontent.com/5f9a85be1790f60e7bbb31789/_thumbs/a9e147ab-f347-3d71-24f6-0a4963472d63.png" width="72px"/>
+                        </td>
+                        <td style="padding-left:12px; vertical-align:top; padding-right:24px;" class="b">
+                            <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="12px"
+                                     letter-spacing="normal" padding="0">
+                                <p class="text-build-content"
+                                   style="line-height: 24px;margin: 0px 0px 8px 0px; text-align: initial;"
+                                   data-testid="EukSNcMEz">
+                                    <a href="https://croct.com/blog/pt-br/growth" target="_blank"
+                                       style="text-decoration:none;">
+                                        <span style="background-color:#EAEEF1;color:#485261;font-family:Inter, Helvetica;font-size:12px; padding:4px; border-radius:4px;">
+                                            Growth
+                                        </span>
+                                    </a>
+                                </p>
+                            </mj-text>
+                            <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="16px"
+                                     letter-spacing="normal" padding-bottom="0px" padding-left="0px" padding-right="0px"
+                                     padding-top="0px" padding="0px 0px 0px 0px">
+                                <p class="text-build-content" style="line-height: 24px; margin:0px;text-align: initial;"
+                                   data-testid="pG_0SiY6d">
+                                    <span style="color:#3F4856;font-family:Inter, Helvetica;font-size:16px;">
+                                        <a href="https://croct.com/blog/pt-br/post/como-otimizar-a-performance-dos-seus-anuncios" target="_blank"
+                                           style="text-decoration:none;color:#656AF5;font-family:Inter, Helvetica;font-size:14px; margin:0px; font-weight:500; text-align: initial;line-height: 21px;">
+                                            Como otimizar a performance dos seus anúncios e superar a saturação dos canais de marketing
+                                        </a>
+                                    </span>
+                                </p>
+                            </mj-text>
+                        </td>
+                    </tr>
+                </mj-table>
+                <mj-column width="100%">
+                    <mj-divider border-color="#eaeef1" border-style="solid" border-width="1px" padding="24px"
+                                width="100%"></mj-divider>
+                </mj-column>
+                <mj-table>
+                    <tr>
+                        <td style="width: 38px; vertical-align:top; padding-left: 24px;">
+                            <img src="https://mcusercontent.com/5f9a85be1790f60e7bbb31789/_thumbs/89464823-cde3-e1d8-73c3-2f9ffbc2fe5a.png" width="72px"/>
+                        </td>
+                        <td style="padding-left:12px; vertical-align:top; padding-right:24px;" class="b">
+                            <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="12px"
+                                     letter-spacing="normal" padding="0">
+                                <p class="text-build-content"
+                                   style="line-height: 24px;margin: 0px 0px 8px 0px; text-align: initial;"
+                                   data-testid="EukSNcMEz">
+                                    <a href="https://croct.com/blog/pt-br/personalizacao" target="_blank"
+                                       style="text-decoration:none;">
+                                        <span style="background-color:#EAEEF1;color:#485261;font-family:Inter, Helvetica;font-size:12px; padding:4px; border-radius:4px;">
+                                            Personalização
+                                        </span>
+                                    </a>
+                                </p>
+                            </mj-text>
+                            <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="16px"
+                                     letter-spacing="normal" padding-bottom="0px" padding-left="0px" padding-right="0px"
+                                     padding-top="0px" padding="0px 0px 0px 0px">
+                                <p class="text-build-content" style="line-height: 24px; margin:0px;text-align: initial;"
+                                   data-testid="pG_0SiY6d">
+                                    <span style="color:#3F4856;font-family:Inter, Helvetica;font-size:16px;">
+                                        <a href="https://croct.com/blog/pt-br/post/como-criar-bom-plano-personalizacao" target="_blank"
+                                           style="text-decoration:none;color:#656AF5;font-family:Inter, Helvetica;font-size:14px; margin:0px; font-weight:500; text-align: initial;line-height: 21px;">
+                                            Como criar um bom plano de personalização para maximizar conversões
+                                        </a>
+                                    </span>
+                                </p>
+                            </mj-text>
+                        </td>
+                    </tr>
+                </mj-table>
+            </mj-section>
+            <!-- END Other Blog Articles -->
+
+            <!-- START Divider -->
+            <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto"
+                        padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px"
+                        padding="0px 0 0 0" text-align="center" vertical-align="top">
+                <mj-column>
+                    <mj-divider border-color="#eaeef1" border-style="solid" border-width="1px" padding-bottom="40px"
+                                padding-left="24px" padding-right="24px" padding-top="40px" padding="40px 24px 40px 24px"
+                                width="100%"></mj-divider>
+                </mj-column>
+            </mj-section>
+            <!-- END Divider -->
+
+            <!-- START Slack Community -->
+            <mj-section background-color="#ffffff" background-repeat="repeat" padding="0px 24px" padding-bottom="40px" text-align="center"
+                        vertical-align="bottom">
+                <mj-section vertical-align="bottom" width="100%" style="position:relative"
+                            css-class="community-section">
+
+                    <mj-table>
+                        <tr>
+                            <td width="24px;" valign="top">
+                                <img src="https://mcusercontent.com/5f9a85be1790f60e7bbb31789/images/698bfe35-90a5-44ca-ff9d-caae46ac123d.png"
+                                     width="24px" style="margin-top:1px;"/>
+                            </td>
+                            <td style="padding-left:12px;position:relative;" align="left">
+                                <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="14px"
+                                         letter-spacing="normal" padding="0px" vertical-align="top">
+                                    <span style="color:#3F4856;font-family:Inter,-apple-system,Helvetica Neue,sans-serif;font-size:24px;margin:0;line-height: 30px; margin: 0;">
+                                        <b style="font-weight: 500;">Vamos crescer juntos</b>
+                                    </span>
+                                </mj-text>
+                            </td>
+                        </tr>
+                    </mj-table>
+
+                    <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="16px"
+                             letter-spacing="normal">
+                        <p class="text-build-content" style="line-height: 24px; margin:0; padding:16px 0 24px 0"
+                           data-testid="IGJocgeCk">
+                            <span style="color:#6B7280;font-family:Inter,-apple-system,Helvetica Neue,sans-serif;font-size:16px;">
+                                Faça parte da nossa comunidade e seja o primeiro a receber dicas, templates de graça e novidades sobre personalização!
+                            </span>
+                        </p>
+                    </mj-text>
+                    <mj-button align="left" background-color="#485261" border-radius="6px" border="none" color="#ffffff"
+                               font-family="Arial, sans-serif" font-size="13px" font-weight="normal"
+                               inner-padding="9px 16px 9px 16px" padding-bottom="32px" padding-left="24px"
+                               padding-right="24px" padding-top="0px" padding="0px 24px 32px 24px"
+                               text-decoration="none" text-transform="none" vertical-align="middle"
+                               href="https://croct.link/community">
+                        <span style="line-height: 20px; font-family:Inter,-apple-system,Helvetica Neue,sans-serif;color:white;">Junte-se a nossa comunidade
+                        </span>
+                    </mj-button>
+                </mj-section>
+            </mj-section>
+            <!-- END Slack Community -->
+
+            <!-- START Footer -->
+            <mj-section background-color="#343C4A" padding-top="24px" padding-bottom="24px">
+                <mj-column width="100%">
+                    <mj-image width="112px" height="24px" href="https://croct.com?utm_medium=email&utm_source=materials&utm_campaign=*|DATE:Ymd|*.EB.EC.ab_testing_guide"
+                              src="https://cdn.croct.io/assets/email/logo-horizontal-white.png" padding-top="0"
+                              padding-bottom="0"/>
+                </mj-column>
+
+                <mj-column width="100%" padding-top="12px">
+                    <mj-text align="center" vertical-align="center" font-size="12px" color="#ced3db" padding-top="0"
+                             padding-bottom="0" align="center" line-height="21px">
+                        <span style="font-family:Inter, Helvetica; color:white;">Avenida Paulista, 2202, São Paulo, Brasil
+                        </span>
+                    </mj-text>
+                </mj-column>
+                <mj-column width="100%" padding="0">
+                    <mj-social icon-size="20px" mode="horizontal" inner-padding="0px 0px 0px 0px" align="center"
+                               padding="12px 0px 16px 0px">
+                        <mj-social-element name="twitter-noshare" href="https://twitter.com/croct_tech"
+                                           src="https://cdn.croct.io/assets/email/icons/twitter.png"
+                                           background-color="transparent" padding="10px"
+                                           css-class="social"></mj-social-element>
+                        <mj-social-element name="linkedin" href="https://www.linkedin.com/company/croct/"
+                                           src="https://cdn.croct.io/assets/email/icons/linkedin.png"
+                                           background-color="transparent" css-class="social"></mj-social-element>
+                        <mj-social-element name="instagram" href="https://www.instagram.com/croct/"
+                                           src="https://cdn.croct.io/assets/email/icons/instagram.png"
+                                           background-color="transparent" css-class="social"></mj-social-element>
+                        <mj-social-element name="facebook-noshare" href="https://www.facebook.com/croctools"
+                                           src="https://cdn.croct.io/assets/email/icons/facebook.png"
+                                           background-color="transparent" css-class="social"></mj-social-element>
+                        <mj-social-element href="https://croct.link/community"
+                                           src="https://cdn.croct.io/assets/email/icons/slack.png"
+                                           background-color="transparent" css-class="social"></mj-social-element>
+                        <mj-social-element name="github" href="https://github.com/croct-tech"
+                                           src=" https://cdn.croct.io/assets/email/icons/github.png"
+                                           background-color="transparent"></mj-social-element>
+                    </mj-social>
+                    <mj-text color="#ced3db" font-size="12px" align="center" padding="0">
+                        <a href="*|UNSUB|*"
+                           style="font-family:Inter, Helvetica; margin:0px; text-decoration:underline; color:white;">
+                            |Cancelar inscrição
+                        </a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-repeat="repeat" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+                <mj-column padding="0">
+                    <mj-text align="center" color="#000000" font-family="Arial, sans-serif" font-size="11px"
+                             letter-spacing="normal" line-height="22px" padding-bottom="0px" padding-top="0px"
+                             padding="10px 25px">
+                        <p style="margin: 10px 0; margin-top: 10px; margin-bottom: 10px"></p>
+                    </mj-text>
+                    <mj-text align="center" color="#000000" font-family="Arial, sans-serif" font-size="11px"
+                             letter-spacing="normal" line-height="22px" padding-bottom="0px" padding-top="0px"
+                             padding="10px 25px">
+                        <p style="margin: 10px 0;; margin-top: 10px; margin-bottom: 10px"></p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <!-- END Footer -->
+        </mj-wrapper>
+    </mj-body>
+</mjml>
