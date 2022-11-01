@@ -117,35 +117,7 @@
                             </span>
                         </p>
                     </mj-text>
-                    <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="16px"
-                             letter-spacing="normal" padding-bottom="24px" padding-left="24px" padding-right="24px"
-                             padding-top="0px" padding="0px 24px 24px 24px">
-                        <p class="text-build-content" style="line-height: 24px; margin: 0px;" data-testid="B5-TOLPXJ5m">
-                            <span style="color:#6B7280;font-family:Inter,Helvetica;font-size:16px;">
-                                Lendo esse ebook você vai aprender:
-                            </span>
-                        </p>
-                    </mj-text>
-                    <mj-text align="left" color="#000000" container-background-color="#ffffff"
-                             font-family="Arial, sans-serif" font-size="14px" letter-spacing="normal"
-                             padding-bottom="32px" padding-left="24px" padding-right="24px" padding-top="0px"
-                             padding="0px 24px 32px 24px">
-                        <p style="font-family:Inter, Helvetica; color:#6B7280;font-size:16px; margin:0px; padding-bottom: 8px; line-height:24px; font-weight:500">
-                            <span style="color:#CED3DB;margin-right:8px;">&bull;</span>
-                            <span style="margin-left:4px;vertical-align:middle;">
-                                As diferenças entre as estatísticas de abordagens mais usadas nas análises de teste AB e qual delas é a mais usada na indústria de teste AB.
-                            </span>
-                        </p>
-                        <p style="font-family:Inter, Helvetica; color:#6B7280;font-size:16px; margin:0px; padding-bottom: 8px; line-height:24px; font-weight:500">
-                            <span style="color:#CED3DB;margin-right:8px;">&bull;</span>
-                            <span style="margin-left:4px;vertical-align:middle;">
-                                O conceito matemático e terminológico atrás do método Bayesian de interpretação de resultados de testes AB
-                            </span>
-                        </p>
-                        <p style="font-family:Inter, Helvetica; color:#6B7280;font-size:16px; margin:0px; line-height:24px; font-weight:500">
-                            <span style="color:#CED3DB;margin-right:8px;">&bull;</span>
-                            <span style="margin-left:4px;vertical-align:middle;">
-                               O fator mais relevante para declarar uma variante vencedora e como garantir conclusões confiáveis 
+                    
                             </span>
                         </p>
                     </mj-text>
@@ -187,7 +159,7 @@
                                 <mj-text align="left" color="#000000" font-family="Arial, sans-serif" font-size="14px"
                                          letter-spacing="normal" padding="0px" vertical-align="top">
                                     <span style="color:#3F4856;font-family:Inter, Helvetica;font-size:24px;margin:0px;line-height: 30px; margin: 0px;">
-                                        <b style="font-weight: ;">Quer conhecer outras táticas para melhorar seus resultados? Os links abaixo podem te ajudar:</b>
+                                        <b style="font-weight: ;">Táticas para melhorar seus resultados:</b>
                                     </span>
                                 </mj-text>
                             </td>
